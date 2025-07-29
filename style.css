@@ -1,0 +1,23 @@
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a:hover{
+    color: tomato;
+
+}
+nav a:visited{
+    color: royalblue;
+    
+}
+h1{
+    background-color: aqua;
+}
